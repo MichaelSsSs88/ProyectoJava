@@ -1,0 +1,9 @@
+Este sistema esta basado en el manejo de listas y archivos, consiste en una app desarrollada en lenguaje Java, con Netbeans. El
+sistema maneja las opciones de agregar empresa, la cual recolecta todos los datos de la empresa, nombre, los tramites que realizara,
+la cantidad de estaciones que posee asi como las tareas que se pueden realizar en cada estación, servicios que en si es ingresar al
+sistema de atención, según el usuario le mostrara los posibles clientes a atender, y cada ves que le da siguiente cliente, le 
+enviara un mensaje a la app Notificaciones que desplegara la información del cliente que se continua atendiendo. La app Cliente
+en si lo que realiza es desplegar una pantalla que le permite a los clientes sacar la cita. Para ejecutar el sistema primero se
+tiene que ejecutar la app servidor, luego la app proyecto_2, siguiendo con la app clientes para finalizar con la app notificaciones.
+Todas las aplicaciones al estar el proyecto finalizado se ejecutaran con solo correr el proyecto servidor. Las apps están conectadas
+entre sí por medio de sockets.
